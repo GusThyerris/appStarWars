@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff0000&height=180&section=header&animation=twinkling"/>
+
 # Star Wars API - React Native
 
 Este repositório contém uma aplicação móvel desenvolvida em React Native que consome a API REST do Star Wars para exibir informações sobre personagens da saga.
